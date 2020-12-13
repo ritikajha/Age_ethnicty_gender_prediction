@@ -17,7 +17,7 @@
           <v-card-title class="headline grey lighten-2">
             Architecture diagram
           </v-card-title>
-          <v-img :src="require('@/assets/cnn_arc.png')"></v-img>
+          <v-img :src="require('@/assets/cnn_arc.png')" :lazy-src="require('@/assets/cnn_arc.png')"></v-img>
         </v-card>
       </v-dialog>
     </div>

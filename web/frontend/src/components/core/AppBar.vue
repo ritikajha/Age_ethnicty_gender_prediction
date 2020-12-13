@@ -43,6 +43,7 @@
           <v-tab>CNN </v-tab>
           <v-tab>Multi Output CNN </v-tab>
           <v-tab>Prediction</v-tab>
+          <v-tab>Result & Conclusion</v-tab>
         </v-tabs>
       </template>
     </v-app-bar>
@@ -83,6 +84,9 @@
           <v-tab-item>
             <home />
           </v-tab-item>
+          <v-tab-item>
+            <result />
+          </v-tab-item>
         </v-tabs-items>
       </v-container>
     </v-sheet>
@@ -102,6 +106,7 @@ export default {
     Moc: () => import("@/components/moc"),
     Svm: () => import("@/components/svm"),
     Intro: () => import("@/components/intro"),
+    Result: () => import("@/components/result"),
   },
 };
 </script>
