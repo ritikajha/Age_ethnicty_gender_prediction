@@ -24,4 +24,4 @@ We have a folder named Python code, which contains all the code, saved models, i
 
 We have another folder name Web which contain Frontend and Backend which is developed in Flask and VueJS
 
-Web Link : [http://faceclassification.ml/](http://faceclassification.ml/)
+
