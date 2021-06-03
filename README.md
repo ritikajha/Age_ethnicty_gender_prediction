@@ -1,10 +1,13 @@
-# Machine_learning_Project
+
+# <div align="center"> Age gender and ethnicity prediction <div>
+## <div align="center"> Machine_learning_Project <div>
+
 Web and Machine learning model
 Problem statement was to predict the age gender and ethnicity of UTK face image dataset.
-All the details of different types of models tried along with their results is shown in this link.
+All the details of different types of models tried along with their results is shown in this [link](https://ritikajha.github.io/Machine_learning_Project/).
 
 
-We have a folder named Python code, which contains all the code, saved models, images, the Kaggle donloaded dataset and the preprocessed dataset.
+We have a folder named Python code, which contains all the code, saved models, images, the Kaggle downloaded dataset and the preprocessed dataset.
 
 - all_saved_models - 
 	This folder has all the saved models - MLP, CNN, SVM and multi utput CNN.
@@ -27,4 +30,13 @@ We have another folder name Web which contain Frontend and Backend which is deve
 
 Since predcition tab isnt working in website we have given some snapshots below.
 
+Selecting a image over for which prediction will take place using CNN
+![alt text](IMG/1.png)
 
+Prediction on first image
+![alt text](IMG/2.png)
+
+Prediction on second image
+![alt text](IMG/3.png)
+
+## <div align="center">Please star the repository if it helped you 😊</div>
