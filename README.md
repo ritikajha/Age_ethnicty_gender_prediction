@@ -1,7 +1,8 @@
 # Machine_learning_Project
 Web and Machine learning model
+Problem statement was to predict the age gender and ethnicity of UTK face image dataset.
+All the details of different types of models tried along with their results is shown in this link.
 
-**ML project - Sem5** 
 
 We have a folder named Python code, which contains all the code, saved models, images, the Kaggle donloaded dataset and the preprocessed dataset.
 
@@ -23,5 +24,7 @@ We have a folder named Python code, which contains all the code, saved models, i
 	
 
 We have another folder name Web which contain Frontend and Backend which is developed in Flask and VueJS
+
+Since predcition tab isnt working in website we have given some snapshots below.
 
 
