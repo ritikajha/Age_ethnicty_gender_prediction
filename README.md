@@ -1,7 +1,7 @@
 # Machine_learning_Project
 Web and Machine learning model
 Problem statement was to predict the age gender and ethnicity of UTK face image dataset.
-All the details of different types of models tried along with their results is shown in this [link](www.google.com).
+All the details of different types of models tried along with their results is shown in this [link](https://ritikajha.github.io/Machine_learning_Project/).
 
 
 We have a folder named Python code, which contains all the code, saved models, images, the Kaggle downloaded dataset and the preprocessed dataset.
