@@ -28,10 +28,10 @@ We have another folder name Web which contain Frontend and Backend which is deve
 Since predcition tab isnt working in website we have given some snapshots below.
 
 Selecting a image over for which prediction will take place using CNN
-![alt text](https://github.com/ritikajha/Machine_learning_Project/tree/master/IMG/1.png)
+![alt text](IMG/1.png)
 
 Prediction on first image
-![alt text](https://github.com/ritikajha/Machine_learning_Project/tree/master/IMG/2.png)
+![alt text](IMG/2.png)
 
 Prediction on second image
 ![alt text](https://github.com/ritikajha/Machine_learning_Project/tree/master/IMG/3.png)
