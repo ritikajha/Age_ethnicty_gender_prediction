@@ -4,7 +4,7 @@ Problem statement was to predict the age gender and ethnicity of UTK face image 
 All the details of different types of models tried along with their results is shown in this link.
 
 
-We have a folder named Python code, which contains all the code, saved models, images, the Kaggle donloaded dataset and the preprocessed dataset.
+We have a folder named Python code, which contains all the code, saved models, images, the Kaggle downloaded dataset and the preprocessed dataset.
 
 - all_saved_models - 
 	This folder has all the saved models - MLP, CNN, SVM and multi utput CNN.
@@ -26,5 +26,14 @@ We have a folder named Python code, which contains all the code, saved models, i
 We have another folder name Web which contain Frontend and Backend which is developed in Flask and VueJS
 
 Since predcition tab isnt working in website we have given some snapshots below.
+
+Selecting a image over for which prediction will take place using CNN
+![alt text](http://url/to/img.png)
+
+Prediction on first image
+![alt text](http://url/to/img.png)
+
+Prediction on second image
+![alt text](http://url/to/img.png)
 
 
