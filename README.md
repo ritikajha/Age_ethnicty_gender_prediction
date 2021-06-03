@@ -1,6 +1,6 @@
 
-##Age gender and ethnicity prediction
-# Machine_learning_Project
+# <div align="center"> Age gender and ethnicity prediction <div>
+## <div align="center"> Machine_learning_Project <div>
 
 Web and Machine learning model
 Problem statement was to predict the age gender and ethnicity of UTK face image dataset.
@@ -39,4 +39,4 @@ Prediction on first image
 Prediction on second image
 ![alt text](IMG/3.png)
 
-Please star the repository if it helped you 😊
+## <div align="center">Please star the repository if it helped you 😊</div>
